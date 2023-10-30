@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<employees>
+    <employee>
+        <Name>John Doe</Name>
+        <DOB>1980-05-15</DOB>
+        <Address>Mumbai</Address>
+        <Salary>60000</Salary>
+    </employee>
+    <employee>
+        <Name>Jane Smith</Name>
+        <DOB>1990-08-25</DOB>
+        <Address>Pune</Address>
+        <Salary>75000</Salary>
+    </employee>
+    <employee>
+        <Name>Michael Johnson</Name>
+        <DOB>1985-03-10</DOB>
+        <Address>Mumbai</Address>
+        <Salary>70000</Salary>
+    </employee>
+    <employee>
+        <Name>Sarah Wilson</Name>
+        <DOB>1995-12-02</DOB>
+        <Address>Chennai</Address>
+        <Salary>62000</Salary>
+    </employee>
+    <employee>
+        <Name>Colin</Name>
+        <DOB>1978-07-20</DOB>
+        <Address>Chennai</Address>
+        <Salary>80000</Salary>
+    </employee>
+    <employee>
+        <Name>Lisa Davis</Name>
+        <DOB>1987-09-08</DOB>
+        <Address>Hyderabad</Address>
+        <Salary>68000</Salary>
+    </employee>
+    <employee>
+        <Name>Robert Anderson</Name>
+        <DOB>1993-01-30</DOB>
+        <Address>Delhi</Address>
+        <Salary>71000</Salary>
+    </employee>
+    <employee>
+        <Name>Rithwik</Name>
+        <DOB>1993-01-30</DOB>
+        <Address>Delhi</Address>
+        <Salary>70200</Salary>
+    </employee>
+</employees>
